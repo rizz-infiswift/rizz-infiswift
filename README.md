@@ -1,4 +1,6 @@
-Heya! My name is Ritika Agrawal.
+Heya! I am Rizz.
+
+![hey](https://raw.githubusercontent.com/rizz-infiswift/rizz-infiswift/refs/heads/main/my%20animated%20image.png)
 
 - 🔭 I’m currently working on myself?
 - 🌱 I’m currently learning personal finance, if you can give me any tips it would be great!
